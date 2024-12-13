@@ -2,7 +2,7 @@
 ## About
 
 <div style="display: flex;">
-    <img src="Downloads/LEDlamp.jpg" width="300" />
+    <img src="images/LEDlamp.gif" width="300" />
 </div>
 
 
@@ -20,7 +20,7 @@
 
 ### Circuit diagram
 - ``final_fritzing.fzz`` or the following screenshot, route the hardware as shown above.
-<img src="Documents/final_fritzing.png" alt="circuit" width="1000" />
+<img src="images/final_fritzing.png" alt="circuit" width="1000" />
 
 ### Instructions 
 1) Using the [Arduino IDE](https://www.arduino.cc/en/software), open ``led_show.ino``
