@@ -1,5 +1,6 @@
 # [Sound Reactive LED Lamp](https://incongruous-literature-ab3.notion.site/Final-Project-Sound-Reactive-LED-Lamp-159b01346aae80d78827ffa08fb50904)
-## About
+## About 
+This is a colorful lamp that reacts to the sounds around it. My goal was to create a simple yet nice enclosure that ensures that the changing brightness can be visible!
 
 <div style="display: flex;">
     <img src="images/LEDlamp.gif" width="300" />
